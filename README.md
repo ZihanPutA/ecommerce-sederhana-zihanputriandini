@@ -1,7 +1,4 @@
 # SILLAGE — Maison de Parfum
-### Ikhtisar Bisnis
-
----
 
 ## 1. Nama Bisnis, Deskripsi & Proposisi Nilai
 
